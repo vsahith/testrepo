@@ -1,4 +1,4 @@
-[] tenant checks
-[] multi-tenant testing
-[] unit testing
-[] proper linting
+- [ ] tenant checks
+- [ ] multi-tenant testing
+- [ ] unit testing
+- [ ] proper linting
